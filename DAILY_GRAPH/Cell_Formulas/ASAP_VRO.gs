@@ -2,6 +2,7 @@
 
 //replace {URL} with LC2_VRO_TIMES url address
 //replace {DATECELL} with date above cell
+//replace {SHIFT} with shift number: 1, 2, 3
 /*replace {SHIFTTOTAL} with: 
     !K4 for 1st shift
     !K18 for 2cnd shift
@@ -14,5 +15,5 @@ TO_TEXT(MONTH({DATECELL}))
 & "/" 
 & DAY({DATECELL}) 
 & "/" 
-& RIGHT({YEAR({DATECELL}), 2)
+& RIGHT({YEAR({DATECELL}), {SHIFT})
 & "{SHIFTTOTAL}"))
