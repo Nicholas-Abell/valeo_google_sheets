@@ -9,3 +9,7 @@ Apps_Script folder hold functions that are done automatically, ie page creation.
   acess these by:
     Extensions ->
       Apps Script
+
+
+Most codes use an important range function that finds a specific sheet via its name which is a date
+
