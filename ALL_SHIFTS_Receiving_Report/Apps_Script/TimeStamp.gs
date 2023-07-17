@@ -1,4 +1,3 @@
-
 function onEdit() {
 
 let s = SpreadsheetApp.getActiveSheet();
@@ -19,7 +18,9 @@ and the 4&3 to the desired distance away var dateCell = r.offset(0, 4);
 if( r.getValue() != '' && r.getColumn() == 2){
 
   //places a time stamp
-  dateCell.setValue(new Date().toLocaleTimeString());
+  if(dateCell.getValue() == ""){
+    dateCell.setValue(new Date().toLocaleTimeString());
+  }
 
   //Places user initial
   if(email == "nicholas.abell@valeo.com"){
