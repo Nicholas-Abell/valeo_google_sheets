@@ -10,6 +10,10 @@
 61A-1907-7744
   -Short Masking Tape
   -Roll Quantity: 1,000
+
+61A+1907-7745
+  -Small Box of Ziploc Bags
+  -Box Quantity: 1,000
   
 61A-1907-7746
   -Bubble Wrap
@@ -26,7 +30,7 @@
   -Box Quantity: 60,000
 
 61A-1922-0126
-  -Part # on Box
+  -Part # on Box 
   -Roll Quantity: 5,500
   -Box Quantity: 55,000
 
@@ -39,7 +43,8 @@
   -Roll Quantity: 2,500
 
 61A-1922-0215
-  -Box reads "4 X 6 CARD STOCK"
+  -Box Reads: "4 X 6 CARD STOCK"
+  -Label Reads: "TOYOTA KANBAN"
   -Roll Quantity: 1,000
   -Box Quantity: 4,000
 
