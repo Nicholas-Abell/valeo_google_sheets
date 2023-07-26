@@ -2,6 +2,10 @@
   -Full Skids of Saran Wrap
   -Skid Quantity: 120,000
   -Roll Quantity: 6,000
+
+61A-1907-7743
+  -Large Box of Pink Bags
+  -Box Quaniity: 1,500
   
 61A-1907-7744
   -Short Masking Tape
@@ -25,6 +29,10 @@
   -Part # on Box
   -Roll Quantity: 5,500
   -Box Quantity: 55,000
+
+61A-1907-7771
+  -Rolls of Blue Tape
+  -Roll Quantity: 300
 
 61A-1922-0217
   -UNKNOWN
