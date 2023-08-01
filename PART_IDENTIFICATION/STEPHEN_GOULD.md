@@ -1,3 +1,11 @@
+61A-1907-7756
+  -Rolls of pink bags
+  -Roll Quantity: 700
+
+61A-1907-7759
+  -Small pink ziplock bags
+  -Box Quaniity: 1,000
+
 61A-1907-7763
   -Full Skids of Saran Wrap
   -Skid Quantity: 120,000
