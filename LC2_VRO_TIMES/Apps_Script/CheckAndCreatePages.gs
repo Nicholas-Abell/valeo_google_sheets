@@ -1,7 +1,7 @@
-function PageCheck() {
+function CheckAndCreatePages() {
 
-    const ss = SpreadsheetApp.getActiveSpreadsheet();
-    const masterSheet = ss.getSheetByName("MASTER2");
+    const spreadsheet = SpreadsheetApp.getActiveSpreadsheet();
+    const masterSheet = spreadsheet.getSheetByName("MASTER2");
 
     const yesterDayDate = masterSheet.getRange("E48").getValue().toString();
 
@@ -12,9 +12,9 @@ function PageCheck() {
     const nextThreeDays =[todaysDate, tomorrowsDate, dayAfterTomorrowsDate];
 
     function CreateMissingPages (date){
-      var page = ss.getSheetByName(date);
+      var page = spreadsheet.getSheetByName(date);
       if(!page){
-        masterSheet.copyTo(ss).setName(date.toString()).activate();
+        masterSheet.copyTo(spreadsheet).setName(date.toString()).activate();
         Logger.log("Page: " + date + " Created");
       } else{
         Logger.log("Page: " + date + " Already Exists");
@@ -26,7 +26,7 @@ function PageCheck() {
     }
 
     function TabColor(date, color){
-      var page = ss.getSheetByName(date);
+      var page = spreadsheet.getSheetByName(date);
       page && page.setTabColor(color);
     }
 
