@@ -26,5 +26,5 @@ This Google Sheet is designed to be mostly self-sufficient, requiring daily open
 
 ## Additional Information
 
-For any further assistance or inquiries, please reach out to [your contact information here].
+For any further assistance or inquiries, please reach out to Nick Abell.
 
