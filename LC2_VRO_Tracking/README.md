@@ -1,25 +1,44 @@
-PAGE LAYOUT
+## Page Layout Explanation
 
-COLUMN:
+The layout of the page is organized to streamline the order entry process and enhance data tracking. Each column serves a specific purpose, contributing to the accuracy and efficiency of the process.
 
-A: SHIFT
+### Columns and Their Purposes
 
-B: DATE
+- **Column A: SHIFT**
+  - Records the shift during which the order is being processed.
 
-C: TIME ORDER IS SENT
+- **Column B: DATE**
+  - Captures the date when the order is placed.
 
-D: INITAILS OF PICKER
+- **Column C: TIME ORDER IS SENT**
+  - Indicates the time when the order is sent.
 
-E: ASAP Y or N
+- **Column D: INITALS OF PICKER**
+  - Records the initials of the individual responsible for picking the order.
 
-F: PLANT 
+- **Column E: ASAP Y or N**
+  - Determines if the order is designated for ASAP (Yes or No).
 
-G: LINE
+- **Column F: PLANT**
+  - Specifies the plant associated with the order.
 
-I: TIME OPERATOR TAKES ORDER
+- **Column G: LINE**
+  - Identifies the production line relevant to the order.
 
-J: PROMISED Y or N
+- **Column I: TIME OPERATOR TAKES ORDER**
+  - Records the time when the operator takes the order.
 
-K: TIME PROMISED
+- **Column J: PROMISED Y or N**
+  - Indicates if a promise is made for the order (Yes or No).
 
-M: USE DROP DOWN IF ANY APPLY (NOTE: placing a comment here will make the order not be counted in LC2 VRO TIMES)
+- **Column K: TIME PROMISED**
+  - Records the time promised for the order.
+
+- **Column M: USE DROP DOWN IF ANY APPLY**
+  - Provides a space to indicate specific conditions or instructions related to the order. Note that placing a comment here will exclude the order from being counted in LC2 VRO TIMES.
+
+### Importance of Data Accuracy
+
+The careful arrangement of columns serves to ensure accurate and comprehensive data entry. Each column contributes to a specific aspect of the order process, enabling better tracking, monitoring, and decision-making.
+
+For any questions or further information about the page layout and its columns, please feel free to reach out to [your contact information here].
