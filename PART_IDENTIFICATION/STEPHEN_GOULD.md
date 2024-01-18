@@ -21,7 +21,7 @@
   - Description: Short Masking Tape
   - Roll Quantity: 1,000
 
-- **61A+1907-7745**
+- **61A-1907-7745**
   - Description: Small Box of Ziploc Bags
   - Box Quantity: 1,000
 
