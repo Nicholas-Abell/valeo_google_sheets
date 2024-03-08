@@ -32,13 +32,4 @@ Please be aware of the structure and guidelines when making changes or additions
 
 ## Questions and Support
 
-For any questions or assistance, please contact [your contact information here].
-
-
-add this to Mary's site later: We are an all womans shop that serves all walks of life, as well as working within early morning/parent friendly hours (school hours)  
-
-we typically operate mostly around appointments while squeezing in walk-ins if we can. 
-
-So, give us a call or message to book your next appointment.
-
-Welcome to Thistle and Thorns, we're here for all your tattoos and piercings needs. We are located in Seymour, IN with-in the beauty resort. You know that pink building in town.
+For any questions or assistance, please contact Nicholas Abell.
